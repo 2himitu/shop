@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+D:\it包访\workspace (2)\myproject01\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\595100655.index
+\myproject01\src\main\java
+D:\it包访\workspace (2)\myproject01\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\727434718.index
+\myproject01\src\main\java
+D:\it包访\workspace (2)\myproject01\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3543312730.index
+\myproject01\src\main\java
+D:\it包访\workspace (2)\myproject01\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3366628513.index
+\myproject01\src\main\java
+D:\it包访\workspace (2)\myproject01\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3193130999.index
+\myproject01\src\main\java
